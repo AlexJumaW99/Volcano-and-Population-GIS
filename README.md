@@ -10,3 +10,9 @@ The color of the volcano marker depends on the height of the volcano:
     
 Clicking on a volcano marker provides additional info about the volcano, such as the name (which is clickable and redirects the user to a Google search result that gives additional info about the volcano clicked), and the elevation. 
 
+# What I Learnt:
+1. How to create a feature group with Folium, and add them as children to the map, in order to add various layers to the GIS.
+2. How to use the iFrame object to add Html code to our Python doc. 
+3. How to add GeoJson data that allows us to visualize the population ranges of each country in the world. 
+
+
