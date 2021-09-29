@@ -3,6 +3,7 @@ A program that marks the exact location of various Volcanoes on a map based on t
 Both layers can be shown one at a time, simultaneously, or not even shown at all - leaving a blank world map. This can be done using the layer controller, found on the top right of the page. 
 
 The color of the volcano marker depends on the height of the volcano:
+
     1. Green - less than 2000m in height
     2. Orange - 2000 - 3000m
     3. Red - greater than 3000m
